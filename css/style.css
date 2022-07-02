@@ -1,0 +1,53 @@
+.jumbotron {
+  position: relative;
+  background-image: linear-gradient(
+      to left bottom,
+      rgba(124, 128, 124, 0.8),
+      rgba(230, 255, 230, 0.8)
+    ),
+    url(img/1.jpeg);
+  background-size: cover;
+  background-position: 50% 20%;
+  color: rgb(0, 0, 0);
+  height: 800px;
+}
+
+#home .button {
+  margin-bottom: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+@media (max-width: 600px) {
+  #button-size {
+    font-size: 12px;
+  }
+}
+
+#home .cursor-auto {
+  cursor: auto;
+}
+
+.movies-bg{
+  background-color: rgb(0, 0, 0, 0.9);
+}
+
+.card-group .main-h,
+.full-movies .main-h{
+  height: 400px;
+  object-fit: cover;
+}
+
+.movies-mt{
+  margin-top: 160%;
+}
+
+.movies-img-opacity{
+  opacity: 0.6;
+}
+
