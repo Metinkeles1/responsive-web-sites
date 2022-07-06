@@ -1,5 +1,5 @@
 # responsive-web-sites
-HTML - CSS - Bootstrap
+<a href="#">HTML</a> - CSS - Bootstrap
 <br/><hr/>
 <img src="img/main-ss.png"><br/><hr/>
 <img src="img/main-ss-2.png"><br/><hr/>
