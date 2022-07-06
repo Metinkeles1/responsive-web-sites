@@ -1,5 +1,5 @@
 # responsive-web-sites
-<a href="#">HTML</a> - <a href="#">CSS</a> - <a href="#">Bootstrap</a>
+<a href="https://html.com/">HTML</a> - <a href="https://css-tricks.com/">CSS</a> - <a href="https://getbootstrap.com/">Bootstrap</a>
 <br/><hr/>
 <img src="img/main-ss.png"><br/><hr/>
 <img src="img/main-ss-2.png"><br/><hr/>
